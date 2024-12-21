@@ -66,6 +66,14 @@ button:active {
     opacity: 0.8;
 }
 
+.result {
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
 @media screen and (max-width: 900px) {
     body {
         display: flex;
